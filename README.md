@@ -4,6 +4,9 @@
 
 I am [Your Name], a dedicated and proficient Software Engineer with over 6 years of experience in designing, developing, and maintaining software applications. My expertise spans across various programming languages, frameworks, and development methodologies, with a strong focus on delivering high-quality code and innovative solutions.
 
+## Education
+- Bachelo degree computer science 2024
+
 ## Key Skills
 
 - **Programming Languages:** Proficient in Python, Java, C#, and JavaScript.
